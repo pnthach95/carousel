@@ -1,1 +1,1 @@
-[!record](./record.mov)
+[!record](./record.mp4)
